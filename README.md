@@ -14,7 +14,9 @@ Hi. I'm jamin. I'm studying computer science at university.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jams10&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tools
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blender.svg" /> <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unrealengine.svg" /> <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg" />
+![](https://img.shields.io/badge/Engine-Unreal-informational?style=flat&logo=unreal-engine&logoColor=black&color=2bbc8a)
+![](https://img.shields.io/badge/Engine-Unity-informational?style=flat&logo=unity&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Blender-informational?style=flat&logo=blender&logoColor=orange&color=2bbc8a)
 
 
 
