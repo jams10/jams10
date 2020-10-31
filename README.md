@@ -1,5 +1,4 @@
-# Hello! <img src="https://raw.githubusercontent.com/jams10/jams10/master/wave.gif" width="30px">
-
+# Hello! <img src="wave.gif" width="45" title="hover text">
 
 <div align=center>
 	
