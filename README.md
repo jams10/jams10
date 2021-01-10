@@ -10,8 +10,7 @@ Hi. I'm jamin. I'm studying computer science at university.
 
 - Game Programming
 - Computer Graphics
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jams10&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+- 
 
 ### Tools
 ![](https://img.shields.io/badge/Engine-Unreal-informational?style=flat&logo=unreal-engine&logoColor=black&color=2bbc8a)
